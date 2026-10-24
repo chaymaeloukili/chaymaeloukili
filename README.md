@@ -11,6 +11,7 @@ I'd like to learn how to connect and visualize data from different sources, and 
 - Currently working on: a project in the Data Integration module about cinema visits in Germany – how streaming changed them, and whether people are turning back to analog, shared experiences
 - Curious about: neuroscience, and how data and AI can help us explore it
 
+
 ## Links
 
 - [My Data Integration labs](https://github.com/chaymaeloukili/data-integration-labs)
