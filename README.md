@@ -9,7 +9,7 @@ I'd like to learn how to connect and visualize data from different sources, and 
 - Studying: Data and Information Science, TH Köln
 - Completed: Harvard's CS50 course on programming with Python
 - Currently working on: a project in the Data Integration module about cinema visits in Germany – how streaming changed them, and whether people are turning back to analog, shared experiences
-- Curious about: neuroscience, and how data and AI can help us explore it
+- Curious about: neuroscience and how humans function, and how our health is shaped by the way we live and connect as a society
 
 ## Links
 
