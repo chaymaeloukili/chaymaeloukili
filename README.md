@@ -12,6 +12,13 @@ I'd like to learn how to connect and visualize data from different sources, and 
 - Personal project (to practise): how sad music affects our mood – when it comforts us and when it pulls us down
 - Curious about: neuroscience and how humans function, and how our health is shaped by the way we live and connect as a society
 
+## Skills
+- **Python:** basics (CS50), learning pandas & matplotlib
+- **SQL:** basics: queries, databases, ER modeling
+- **R:** basics (university module)
+- **Tools:** Excel, VS Code, Jupyter, Git & GitHub
+- **AI:** Claude for learning, coding and connected workflows (e.g. with Obsidian)
+
 ## Links
 
 - [My Data Integration labs](https://github.com/chaymaeloukili/data-integration-labs) – university labs
